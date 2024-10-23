@@ -62,9 +62,9 @@ Response: The API will return a JSON response with the relevant content based on
 
 json
 {
-  "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
   "prompt": "Find information about artificial intelligence",
-  "relevant_content": "..."
+  "relevant_content": "...",
+  "url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
 }
 
 
